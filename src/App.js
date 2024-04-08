@@ -1,5 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
+import './App.css';
 import TodoInput from "./components/TodoInput";
 
 function App() {
@@ -9,5 +8,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
